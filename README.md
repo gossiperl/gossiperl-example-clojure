@@ -13,7 +13,7 @@ It can be resolved by following these steps: http://stackoverflow.com/a/6481658/
 ## Getting the JVM library:
 
     VERSION=0.1
-    git clone https://github.com/radekg/gossiperl-client-jvm.git
+    git clone https://github.com/gossiperl/gossiperl-client-jvm.git
     cd gossiperl-client-jvm/
     git tags -l
     git checkout v$VERSION
